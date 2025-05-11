@@ -82,4 +82,4 @@ An executable version, `instaGif.exe`, is provided in the `exe/` directory for e
 - in the future i will have to fix the problems:
  - that some gifs take longer to generate
  - the time isnt 100% accurate
- - some gifs take up a lot of space
+ - some gifs may take up a lot of space
